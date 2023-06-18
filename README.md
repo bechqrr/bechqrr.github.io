@@ -1,5 +1,4 @@
-# bechqrr.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>bechirr</title>
