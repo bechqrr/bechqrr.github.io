@@ -33,3 +33,4 @@
     <p>I code things for fun and to learn. I mostly code in C++ (with SDL2 and Raylib) to make small things. But I'm also a fast learner, meaning I can learn a new language in a short period of time.</p>
 </body>
 </html>
+[Uploading googlea29e7google-site-verification: googlea29e78ff6de7f371.html8ff6de7f371.html…]()
