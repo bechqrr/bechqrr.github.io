@@ -33,4 +33,3 @@
     <p>I code things for fun and to learn. I mostly code in C++ (with SDL2 and Raylib) to make small things. But I'm also a fast learner, meaning I can learn a new language in a short period of time.</p>
 </body>
 </html>
-@crampté
