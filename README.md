@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>bechirr</title>
@@ -38,9 +38,6 @@
     <p>Tiktok: .bechirr</p>
     <h2>About me</h2>
     <p>I code things for fun and to learn. I mostly code in C++ (with SDL2 and Raylib) to make small things. But I'm also a fast learner, meaning I can learn a new language in a short period of time.</p>
-    <div class="github-logo">
-        <img src="github-logo.png" alt="GitHub Logo">
-        <a href="https://github.com/bechqr">@bechqr</a>
     </div>
 </body>
 </html>
