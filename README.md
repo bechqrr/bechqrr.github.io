@@ -33,3 +33,23 @@
     <p>I code things for fun and to learn. I mostly code in C++ (with SDL2 and Raylib) to make small things. But I'm also a fast learner, meaning I can learn a new language in a short period of time.</p>
 </body>
 </html>
+
+element.style {
+}
+:host, :root {
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+html {
+    font-family: "Nunito", sans-serif;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
