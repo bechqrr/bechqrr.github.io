@@ -1,4 +1,7 @@
-
+border-radius: 49px;
+background: #855757;
+box-shadow:  35px 35px 49px #714a4a,
+             -35px -35px 49px #996464;
 <html>
 <head>
     <title>Site de Bechirr</title>
